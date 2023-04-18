@@ -1,0 +1,40 @@
+body {
+    background-color: #36393f;
+    
+    
+}
+a {
+  border: ridge blue;
+  border-width: 6px;
+  border-radius: 5px;
+  color: darkblue;
+  text-decoration: none;
+  font-family: verdana, sans-serif;
+  font-size: 20px;
+  background-color: #36393f;
+  display: flex;
+  text-align: center;
+  background-color: azure;
+  font-weight: 2000;
+  
+}
+
+h1 {
+  color: dodgerblue;
+  font-size: 50px;
+  text-rendering: optimizeLegibility;
+  text-decoration-line: underline;
+  text-align: center;
+}
+
+.heading {
+  color: darkcyan;
+  font-size: 30px;
+  text-decoration-line: underline;
+  
+}
+.dash {
+  color: cadetblue;
+  font-size: 20px;
+  text-decoration: none;
+}
